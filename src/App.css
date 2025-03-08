@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding :0px;
 }
 .headertext p {
   font-size: 40px; /* Adjust as needed */
